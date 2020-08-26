@@ -1,5 +1,5 @@
 # sonart
-music school
+Management of a Musicschool.
 
 It concerns the management of a Music Big School in Quebec/Canada.
 Management of students, teachers, classes-courses, calendars-vacancies, bills, etc.
